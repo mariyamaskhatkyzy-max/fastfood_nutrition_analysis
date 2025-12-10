@@ -1,6 +1,3 @@
-# fastfood_nutrition_analysis
-A statistical analysis of 515 menu items from eight fast-food chains, evaluating differences in calories, fat, sugar, and performance metrics using ANOVA, post-hoc comparisons, regression modeling, and visualization techniques.
-
 # Fast Food Nutrition Analysis
 This project analyzes nutritional information from 515 menu items across eight major U.S. fast-food chains. The goal is to identify differences in calories, fat, sugar, and other nutritional metrics using exploratory data analysis and statistical tests.
 
